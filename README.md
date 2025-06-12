@@ -21,7 +21,7 @@ A stylish and interactive dance studio landing page built with HTML, CSS, and Ja
 
 ## 📸 Live Preview
 
-[🔗 View Demo](https://khushbumaurya26.github.io/steezy-studio)
+[🔗 View Demo](https://khushbumaurya26.github.io/Steezy-Studio-WebProject/)
 
 ## 📁 Project Structure
 
