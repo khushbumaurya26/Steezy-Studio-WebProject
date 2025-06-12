@@ -1,2 +1,36 @@
-# Steezy-Studio
-I developed this website using HTML, CSS, JavaScript
+# STEEZY STUDIO 💃🕺
+
+A stylish and interactive dance studio landing page built with HTML, CSS, and JavaScript.
+
+## 🔥 Features
+
+- Dynamic cursor effects
+- Full-screen background video
+- Animated navigation and scrolling
+- Interactive dance card overlays
+- Stylish GSAP animations
+- Responsive layout for modern browsers
+
+## 💻 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- GSAP (GreenSock)
+- ScrollTrigger
+
+## 📸 Live Preview
+
+[🔗 View Demo](#) <!-- Replace # with deployed site link if hosted -->
+
+## 📁 Project Structure
+
+```plaintext
+📦 steezy-studio/
+ ┣ 📄 index.html
+ ┣ 📄 style.css
+ ┣ 📄 script.js
+ ┣ 📸 logo.jpg
+ ┣ 📸 pic1.jpg
+ ┣ 📸 pic2.jpg
+ ┣ 🎥 video.mp4
